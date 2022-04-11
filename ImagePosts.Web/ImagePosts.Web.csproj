@@ -12,4 +12,8 @@
     <ProjectReference Include="..\ImagePosts.Data\ImagePosts.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Uploads\" />
+  </ItemGroup>
+
 </Project>
